@@ -33,42 +33,42 @@
   },
   {
     "id": 5,
-    "name": "C++ Programming Language",
+    "name": "Java Programming Language",
     "price": 15000,
     "author": "FreeCodeCamp",
-    "link": "8jLOx1hD3_o",
-    "thumbnail": "https://i.ibb.co/pvB3vKc/cpp.jpg"
+    "link": "grEKMHGYyns",
+    "thumbnail": "https://i.ibb.co/1z48k69/java.jpg"
   },
   {
     "id": 6,
-    "name": "C++ Programming Language",
+    "name": "Golang Programming Language",
     "price": 15000,
     "author": "FreeCodeCamp",
-    "link": "8jLOx1hD3_o",
-    "thumbnail": "https://i.ibb.co/pvB3vKc/cpp.jpg"
+    "link": "YS4e4q9oBaU",
+    "thumbnail": "https://i.ibb.co/ftyBhhJ/golang.jpg"
   },
   {
     "id": 7,
-    "name": "C++ Programming Language",
+    "name": "C# Programming Language",
     "price": 15000,
     "author": "FreeCodeCamp",
-    "link": "8jLOx1hD3_o",
-    "thumbnail": "https://i.ibb.co/pvB3vKc/cpp.jpg"
+    "link": "GhQdlIFylQ8",
+    "thumbnail": "https://i.ibb.co/xzNdb4q/c.jpg"
   },
   {
     "id": 8,
-    "name": "C++ Programming Language",
+    "name": "Kotlin Programming Language",
     "price": 15000,
-    "author": "FreeCodeCamp",
-    "link": "8jLOx1hD3_o",
-    "thumbnail": "https://i.ibb.co/pvB3vKc/cpp.jpg"
+    "author": "Donn Felker",
+    "link": "wuiT4T_LJQo",
+    "thumbnail": "https://i.ibb.co/jHV17CY/kotlin.jpg"
   },
   {
     "id": 9,
-    "name": "C++ Programming Language",
+    "name": "Swift Programming Language",
     "price": 15000,
-    "author": "FreeCodeCamp",
+    "author": "CodeWithChris",
     "link": "8jLOx1hD3_o",
-    "thumbnail": "https://i.ibb.co/pvB3vKc/cpp.jpg"
+    "thumbnail": "https://i.ibb.co/rmFY5Fc/swift.jpg"
   }
 ]

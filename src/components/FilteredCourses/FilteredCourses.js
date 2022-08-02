@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from "react";
 import Row from "react-bootstrap/Row";
 import Course from "../Course/Course";
+import Button from "react-bootstrap/Button";
+import { Link } from "react-router-dom";
 import "./FilteredCourse.css";
 
 const FilteredCourses = () => {
@@ -19,6 +21,11 @@ const FilteredCourses = () => {
           <Course key={course.id} course={course}></Course>
         ))}
       </Row>
+      <div style={{ textAlign: "center" }}>
+        <Link to="/courses">
+          <Button style={{ marginBottom: "50px" }}>All Courses</Button>
+        </Link>
+      </div>
     </div>
   );
 };
