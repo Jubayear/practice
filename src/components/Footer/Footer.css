@@ -1,17 +1,23 @@
 footer {
-  background-color: #0d6efd;
+  background-color: #745b0032;
   text-align: center;
   color: white;
   padding: 20px;
 }
+
 footer a {
   color: white;
+  background-color: rgb(135, 119, 153);
+  border-radius: 15px;
   text-decoration: none;
   margin: 0 20px;
+  padding: 10px;
 }
+
 footer a:hover {
-  color: white;
+  color: rgb(237, 62, 158);
 }
+
 footer p {
   margin-bottom: 10px;
 }

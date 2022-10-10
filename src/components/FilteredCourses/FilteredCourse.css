@@ -1,10 +1,12 @@
 .filtered-course {
   margin-top: 50px;
 }
+
 .courses-heading {
   text-align: center;
   margin-bottom: 30px;
 }
+
 .course-container {
   justify-content: space-between;
 }

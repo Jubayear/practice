@@ -6,7 +6,7 @@ import { LinkContainer } from "react-router-bootstrap";
 
 const Navigation = () => {
   return (
-    <Navbar bg="primary" variant="dark">
+    <Navbar bg="warning" variant="light">
       <Container>
         <Navbar.Brand href="/">LearnDeck</Navbar.Brand>
         <Nav className="me-auto">
